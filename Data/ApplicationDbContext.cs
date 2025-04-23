@@ -22,6 +22,8 @@ namespace Resturant.Data
         {   
             base.OnModelCreating(builder);
             // Configure the many-to-many relationship between Product and Ingredient
+            builder.Entity<Ingredient>()
+        .HasKey(i => i.IngredientId);
             builder.Entity<ProductIngredient>()
                 .HasKey(pi => new { pi.ProductId, pi.IngredientId });
             builder.Entity<ProductIngredient>()
