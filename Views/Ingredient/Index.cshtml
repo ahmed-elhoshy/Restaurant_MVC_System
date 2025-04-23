@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Ingredient>
+@{
+	ViewBag.Title = "List of Resturant Ingredients";
+}
+<h1>Ingredients</h1>
+<table class="table">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Actions</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var i in Model)
+		{
+			<tr>
+				<td>@i.Name</td>
+				<td>
+					<a asp-action="Details" asp-route-id="@i.IngredientId">Details</a> |
+					<a href="@Url.Action("Edit", "Ingredient", new { id = i.IngredientId })">Edit</a> |
+					<a href="@Url.Action("Delete", "Ingredient", new { id = i.IngredientId })">Delete</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
