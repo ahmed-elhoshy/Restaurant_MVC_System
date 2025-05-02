@@ -3,6 +3,10 @@
 	ViewBag.Title = "List of Resturant Ingredients";
 }
 <h1>Ingredients</h1>
+<hr />
+<p>
+	<a asp-action="Create">Create New</a>
+</p>
 <table class="table">
 	<thead>
 		<tr>
@@ -17,8 +21,8 @@
 				<td>@i.Name</td>
 				<td>
 					<a asp-action="Details" asp-route-id="@i.IngredientId">Details</a> |
-					<a href="@Url.Action("Edit", "Ingredient", new { id = i.IngredientId })">Edit</a> |
-					<a href="@Url.Action("Delete", "Ingredient", new { id = i.IngredientId })">Delete</a>
+					<a asp-action="Edit" asp-route-id="@i.IngredientId">Edit</a> |
+					<a asp-action="Delete" asp-route-id="@i.IngredientId">Delete</a>
 				</td>
 			</tr>
 		}
