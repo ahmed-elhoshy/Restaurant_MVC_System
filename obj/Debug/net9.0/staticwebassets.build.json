@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rr9q6z4oQkUuAwBun0EzCGdbbyYBHVTZx8VgpKGYF8A=",
+  "Hash": "nKmNQQGH2WVMCAX3FkX5JrhopCfZ9jBmX9FuphgxFq0=",
   "Source": "Resturant",
   "BasePath": "_content/Resturant",
   "Mode": "Default",
@@ -3083,12 +3083,12 @@
       "OriginalItemSpec": "C:\\Users\\legion\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-tfe65mbq55.gz",
+      "Identity": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-iy27a8y2k6.gz",
       "SourceId": "Resturant",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Resturant",
-      "RelativePath": "css/site#[.{fingerprint=tfe65mbq55}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=iy27a8y2k6}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -3097,8 +3097,8 @@
       "RelatedAsset": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7ym4rfcu3w",
-      "Integrity": "0dvl+v11u3CnwZIpdwSM/GW+wQ93sjNdxwJcncJ0xWY=",
+      "Fingerprint": "6znxgagt1u",
+      "Integrity": "XlBMsTuIQba28XnWsPOybprBFL3LpQwTMVQyJl0vZxw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\css\\site.css"
@@ -4042,8 +4042,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "tfe65mbq55",
-      "Integrity": "mfvfUqc4+7dnc179T6H4FP5u+zhTYawLH1WttrmBX+8=",
+      "Fingerprint": "iy27a8y2k6",
+      "Integrity": "RuusaF6kHWKpORg1nskRa0w/7C8WoeId3/lBGs33cxk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -4068,6 +4068,153 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\caesar-salad.jpg",
+      "SourceId": "Resturant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\",
+      "BasePath": "_content/Resturant",
+      "RelativePath": "images/caesar-salad#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gu9meaybg",
+      "Integrity": "ZvB12hxqHJNDcIg89GhTemSgEf1GB0Q9mGidcl8xvAg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\caesar-salad.jpg"
+    },
+    {
+      "Identity": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\chocolate-cake.jpg",
+      "SourceId": "Resturant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\",
+      "BasePath": "_content/Resturant",
+      "RelativePath": "images/chocolate-cake#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1i8go7hh1i",
+      "Integrity": "CXOINJqao+gbwyrB2tTCjpb/lBe+i6gqEo8WfqopZL8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\chocolate-cake.jpg"
+    },
+    {
+      "Identity": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\french-fries.jpg",
+      "SourceId": "Resturant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\",
+      "BasePath": "_content/Resturant",
+      "RelativePath": "images/french-fries#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p6v26pbrkm",
+      "Integrity": "YUR40S80jT8IP0VAMIjq3SqZb3EPpvsZYyczyWMrwbc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\french-fries.jpg"
+    },
+    {
+      "Identity": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\fries.jpeg",
+      "SourceId": "Resturant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\",
+      "BasePath": "_content/Resturant",
+      "RelativePath": "images/fries#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mgyz8isx5k",
+      "Integrity": "ytb4APvbJQHrEu/Zgp2qcP/B4NYqymFYqE8vhElPCUA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fries.jpeg"
+    },
+    {
+      "Identity": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\Grilled-Chicken.jpg",
+      "SourceId": "Resturant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\",
+      "BasePath": "_content/Resturant",
+      "RelativePath": "images/Grilled-Chicken#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9dag0mfaal",
+      "Integrity": "g9+rhCmuDK+voaS8Pa43QN9sIHZlivMGHBeSxQfTwzw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Grilled-Chicken.jpg"
+    },
+    {
+      "Identity": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\Soda.jpg",
+      "SourceId": "Resturant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\",
+      "BasePath": "_content/Resturant",
+      "RelativePath": "images/Soda#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xkjh176wfv",
+      "Integrity": "Yfrt6aseKw8uLgIuQtPgpWzyruyx+SynHOFgCpoTi/s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Soda.jpg"
+    },
+    {
+      "Identity": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\Spring-Rolls.jpg",
+      "SourceId": "Resturant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\",
+      "BasePath": "_content/Resturant",
+      "RelativePath": "images/Spring-Rolls#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "214cy13fwa",
+      "Integrity": "mmpqSgufvJGvpQN89hxiPI/yJmSPLqges/JjdkiBHV0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Spring-Rolls.jpg"
     },
     {
       "Identity": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\js\\site.js",
@@ -5391,12 +5538,12 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-tfe65mbq55.gz",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-iy27a8y2k6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003115264798"
+          "Quality": "0.001845018450"
         }
       ],
       "ResponseHeaders": [
@@ -5406,15 +5553,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "320"
+          "Value": "541"
         },
         {
           "Name": "ETag",
-          "Value": "\"0dvl+v11u3CnwZIpdwSM/GW+wQ93sjNdxwJcncJ0xWY=\""
+          "Value": "\"XlBMsTuIQba28XnWsPOybprBFL3LpQwTMVQyJl0vZxw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 01:50:41 GMT"
+          "Value": "Sat, 10 May 2025 12:22:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5434,13 +5581,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"mfvfUqc4+7dnc179T6H4FP5u+zhTYawLH1WttrmBX+8=\""
+          "Value": "W/\"RuusaF6kHWKpORg1nskRa0w/7C8WoeId3/lBGs33cxk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mfvfUqc4+7dnc179T6H4FP5u+zhTYawLH1WttrmBX+8="
+          "Value": "sha256-RuusaF6kHWKpORg1nskRa0w/7C8WoeId3/lBGs33cxk="
         }
       ]
     },
@@ -5455,7 +5602,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "669"
+          "Value": "1332"
         },
         {
           "Name": "Content-Type",
@@ -5463,11 +5610,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mfvfUqc4+7dnc179T6H4FP5u+zhTYawLH1WttrmBX+8=\""
+          "Value": "\"RuusaF6kHWKpORg1nskRa0w/7C8WoeId3/lBGs33cxk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 01:50:41 GMT"
+          "Value": "Sat, 10 May 2025 12:22:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5477,13 +5624,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mfvfUqc4+7dnc179T6H4FP5u+zhTYawLH1WttrmBX+8="
+          "Value": "sha256-RuusaF6kHWKpORg1nskRa0w/7C8WoeId3/lBGs33cxk="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-tfe65mbq55.gz",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-iy27a8y2k6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5492,7 +5639,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "320"
+          "Value": "541"
         },
         {
           "Name": "Content-Type",
@@ -5500,11 +5647,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0dvl+v11u3CnwZIpdwSM/GW+wQ93sjNdxwJcncJ0xWY=\""
+          "Value": "\"XlBMsTuIQba28XnWsPOybprBFL3LpQwTMVQyJl0vZxw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 01:50:41 GMT"
+          "Value": "Sat, 10 May 2025 12:22:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5522,18 +5669,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0dvl+v11u3CnwZIpdwSM/GW+wQ93sjNdxwJcncJ0xWY="
+          "Value": "sha256-XlBMsTuIQba28XnWsPOybprBFL3LpQwTMVQyJl0vZxw="
         }
       ]
     },
     {
-      "Route": "css/site.tfe65mbq55.css",
-      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-tfe65mbq55.gz",
+      "Route": "css/site.iy27a8y2k6.css",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-iy27a8y2k6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003115264798"
+          "Quality": "0.001845018450"
         }
       ],
       "ResponseHeaders": [
@@ -5543,15 +5690,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "320"
+          "Value": "541"
         },
         {
           "Name": "ETag",
-          "Value": "\"0dvl+v11u3CnwZIpdwSM/GW+wQ93sjNdxwJcncJ0xWY=\""
+          "Value": "\"XlBMsTuIQba28XnWsPOybprBFL3LpQwTMVQyJl0vZxw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 01:50:41 GMT"
+          "Value": "Sat, 10 May 2025 12:22:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5571,13 +5718,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"mfvfUqc4+7dnc179T6H4FP5u+zhTYawLH1WttrmBX+8=\""
+          "Value": "W/\"RuusaF6kHWKpORg1nskRa0w/7C8WoeId3/lBGs33cxk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tfe65mbq55"
+          "Value": "iy27a8y2k6"
         },
         {
           "Name": "label",
@@ -5585,12 +5732,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mfvfUqc4+7dnc179T6H4FP5u+zhTYawLH1WttrmBX+8="
+          "Value": "sha256-RuusaF6kHWKpORg1nskRa0w/7C8WoeId3/lBGs33cxk="
         }
       ]
     },
     {
-      "Route": "css/site.tfe65mbq55.css",
+      "Route": "css/site.iy27a8y2k6.css",
       "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5600,7 +5747,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "669"
+          "Value": "1332"
         },
         {
           "Name": "Content-Type",
@@ -5608,11 +5755,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mfvfUqc4+7dnc179T6H4FP5u+zhTYawLH1WttrmBX+8=\""
+          "Value": "\"RuusaF6kHWKpORg1nskRa0w/7C8WoeId3/lBGs33cxk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 01:50:41 GMT"
+          "Value": "Sat, 10 May 2025 12:22:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5622,7 +5769,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tfe65mbq55"
+          "Value": "iy27a8y2k6"
         },
         {
           "Name": "label",
@@ -5630,13 +5777,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mfvfUqc4+7dnc179T6H4FP5u+zhTYawLH1WttrmBX+8="
+          "Value": "sha256-RuusaF6kHWKpORg1nskRa0w/7C8WoeId3/lBGs33cxk="
         }
       ]
     },
     {
-      "Route": "css/site.tfe65mbq55.css.gz",
-      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-tfe65mbq55.gz",
+      "Route": "css/site.iy27a8y2k6.css.gz",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-iy27a8y2k6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5645,7 +5792,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "320"
+          "Value": "541"
         },
         {
           "Name": "Content-Type",
@@ -5653,11 +5800,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0dvl+v11u3CnwZIpdwSM/GW+wQ93sjNdxwJcncJ0xWY=\""
+          "Value": "\"XlBMsTuIQba28XnWsPOybprBFL3LpQwTMVQyJl0vZxw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 02 May 2025 01:50:41 GMT"
+          "Value": "Sat, 10 May 2025 12:22:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5675,7 +5822,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tfe65mbq55"
+          "Value": "iy27a8y2k6"
         },
         {
           "Name": "label",
@@ -5683,7 +5830,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0dvl+v11u3CnwZIpdwSM/GW+wQ93sjNdxwJcncJ0xWY="
+          "Value": "sha256-XlBMsTuIQba28XnWsPOybprBFL3LpQwTMVQyJl0vZxw="
         }
       ]
     },
@@ -14550,6 +14697,580 @@
         {
           "Name": "integrity",
           "Value": "sha256-1HkjQSVuV0/ji/X/lGeDTHeagBS0BwopMrHDQuwqgtU="
+        }
+      ]
+    },
+    {
+      "Route": "images/caesar-salad.6gu9meaybg.jpg",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\caesar-salad.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZvB12hxqHJNDcIg89GhTemSgEf1GB0Q9mGidcl8xvAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 12:01:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gu9meaybg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/caesar-salad.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZvB12hxqHJNDcIg89GhTemSgEf1GB0Q9mGidcl8xvAg="
+        }
+      ]
+    },
+    {
+      "Route": "images/caesar-salad.jpg",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\caesar-salad.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZvB12hxqHJNDcIg89GhTemSgEf1GB0Q9mGidcl8xvAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 12:01:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZvB12hxqHJNDcIg89GhTemSgEf1GB0Q9mGidcl8xvAg="
+        }
+      ]
+    },
+    {
+      "Route": "images/chocolate-cake.1i8go7hh1i.jpg",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\chocolate-cake.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CXOINJqao+gbwyrB2tTCjpb/lBe+i6gqEo8WfqopZL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 11:57:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1i8go7hh1i"
+        },
+        {
+          "Name": "label",
+          "Value": "images/chocolate-cake.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CXOINJqao+gbwyrB2tTCjpb/lBe+i6gqEo8WfqopZL8="
+        }
+      ]
+    },
+    {
+      "Route": "images/chocolate-cake.jpg",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\chocolate-cake.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CXOINJqao+gbwyrB2tTCjpb/lBe+i6gqEo8WfqopZL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 11:57:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CXOINJqao+gbwyrB2tTCjpb/lBe+i6gqEo8WfqopZL8="
+        }
+      ]
+    },
+    {
+      "Route": "images/french-fries.jpg",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\french-fries.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YUR40S80jT8IP0VAMIjq3SqZb3EPpvsZYyczyWMrwbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 12:00:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YUR40S80jT8IP0VAMIjq3SqZb3EPpvsZYyczyWMrwbc="
+        }
+      ]
+    },
+    {
+      "Route": "images/french-fries.p6v26pbrkm.jpg",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\french-fries.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YUR40S80jT8IP0VAMIjq3SqZb3EPpvsZYyczyWMrwbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 12:00:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p6v26pbrkm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/french-fries.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YUR40S80jT8IP0VAMIjq3SqZb3EPpvsZYyczyWMrwbc="
+        }
+      ]
+    },
+    {
+      "Route": "images/fries.jpeg",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\fries.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ytb4APvbJQHrEu/Zgp2qcP/B4NYqymFYqE8vhElPCUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 11:58:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ytb4APvbJQHrEu/Zgp2qcP/B4NYqymFYqE8vhElPCUA="
+        }
+      ]
+    },
+    {
+      "Route": "images/fries.mgyz8isx5k.jpeg",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\fries.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ytb4APvbJQHrEu/Zgp2qcP/B4NYqymFYqE8vhElPCUA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 11:58:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mgyz8isx5k"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fries.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ytb4APvbJQHrEu/Zgp2qcP/B4NYqymFYqE8vhElPCUA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Grilled-Chicken.9dag0mfaal.jpg",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\Grilled-Chicken.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g9+rhCmuDK+voaS8Pa43QN9sIHZlivMGHBeSxQfTwzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 11:57:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9dag0mfaal"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Grilled-Chicken.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g9+rhCmuDK+voaS8Pa43QN9sIHZlivMGHBeSxQfTwzw="
+        }
+      ]
+    },
+    {
+      "Route": "images/Grilled-Chicken.jpg",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\Grilled-Chicken.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g9+rhCmuDK+voaS8Pa43QN9sIHZlivMGHBeSxQfTwzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 11:57:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g9+rhCmuDK+voaS8Pa43QN9sIHZlivMGHBeSxQfTwzw="
+        }
+      ]
+    },
+    {
+      "Route": "images/Soda.jpg",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\Soda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yfrt6aseKw8uLgIuQtPgpWzyruyx+SynHOFgCpoTi/s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 11:58:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yfrt6aseKw8uLgIuQtPgpWzyruyx+SynHOFgCpoTi/s="
+        }
+      ]
+    },
+    {
+      "Route": "images/Soda.xkjh176wfv.jpg",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\Soda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yfrt6aseKw8uLgIuQtPgpWzyruyx+SynHOFgCpoTi/s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 11:58:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xkjh176wfv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Soda.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yfrt6aseKw8uLgIuQtPgpWzyruyx+SynHOFgCpoTi/s="
+        }
+      ]
+    },
+    {
+      "Route": "images/Spring-Rolls.214cy13fwa.jpg",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\Spring-Rolls.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mmpqSgufvJGvpQN89hxiPI/yJmSPLqges/JjdkiBHV0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 11:17:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "214cy13fwa"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Spring-Rolls.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mmpqSgufvJGvpQN89hxiPI/yJmSPLqges/JjdkiBHV0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Spring-Rolls.jpg",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\Spring-Rolls.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mmpqSgufvJGvpQN89hxiPI/yJmSPLqges/JjdkiBHV0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 11:17:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mmpqSgufvJGvpQN89hxiPI/yJmSPLqges/JjdkiBHV0="
         }
       ]
     },

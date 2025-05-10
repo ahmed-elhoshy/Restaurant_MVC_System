@@ -13,6 +13,34 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\Grilled-Chicken.jpg",
+      "PackagePath": "staticwebassets\\images\\Grilled-Chicken.jpg"
+    },
+    {
+      "Id": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\Soda.jpg",
+      "PackagePath": "staticwebassets\\images\\Soda.jpg"
+    },
+    {
+      "Id": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\Spring-Rolls.jpg",
+      "PackagePath": "staticwebassets\\images\\Spring-Rolls.jpg"
+    },
+    {
+      "Id": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\caesar-salad.jpg",
+      "PackagePath": "staticwebassets\\images\\caesar-salad.jpg"
+    },
+    {
+      "Id": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\chocolate-cake.jpg",
+      "PackagePath": "staticwebassets\\images\\chocolate-cake.jpg"
+    },
+    {
+      "Id": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\french-fries.jpg",
+      "PackagePath": "staticwebassets\\images\\french-fries.jpg"
+    },
+    {
+      "Id": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\fries.jpeg",
+      "PackagePath": "staticwebassets\\images\\fries.jpeg"
+    },
+    {
       "Id": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
