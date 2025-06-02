@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\Burritos.jpg",
+      "PackagePath": "staticwebassets\\images\\Burritos.jpg"
+    },
+    {
       "Id": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\Grilled-Chicken.jpg",
       "PackagePath": "staticwebassets\\images\\Grilled-Chicken.jpg"
     },
@@ -35,10 +39,6 @@
     {
       "Id": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\french-fries.jpg",
       "PackagePath": "staticwebassets\\images\\french-fries.jpg"
-    },
-    {
-      "Id": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\images\\fries.jpeg",
-      "PackagePath": "staticwebassets\\images\\fries.jpeg"
     },
     {
       "Id": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\js\\site.js",

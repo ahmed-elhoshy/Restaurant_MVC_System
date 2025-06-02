@@ -62,10 +62,10 @@ D:\kolya\iti\C#\ASP .NET MVC\Resturant\Resturant\wwwroot\lib\jquery\dist\jquery.
 D:\kolya\iti\C#\ASP .NET MVC\Resturant\Resturant\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\Burritos.jpg
 wwwroot\images\caesar-salad.jpg
 wwwroot\images\chocolate-cake.jpg
 wwwroot\images\french-fries.jpg
-wwwroot\images\fries.jpeg
 wwwroot\images\Grilled-Chicken.jpg
 wwwroot\images\Soda.jpg
 wwwroot\images\Spring-Rolls.jpg

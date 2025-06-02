@@ -24,6 +24,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Apr 2025 11:25:14 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Resturant/images/Burritos.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Burritos.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NZwmuG3RfpEWZHZlFvEzsJV7tf44U\u002BD3Ww26qvlIF7o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"28334"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NZwmuG3RfpEWZHZlFvEzsJV7tf44U\u002BD3Ww26qvlIF7o=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:14:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Resturant/images/Burritos.pvgrec98r2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Burritos.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pvgrec98r2"},{"Name":"integrity","Value":"sha256-NZwmuG3RfpEWZHZlFvEzsJV7tf44U\u002BD3Ww26qvlIF7o="},{"Name":"label","Value":"_content/Resturant/images/Burritos.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"28334"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NZwmuG3RfpEWZHZlFvEzsJV7tf44U\u002BD3Ww26qvlIF7o=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 13:14:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Resturant/images/caesar-salad.6gu9meaybg.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\caesar-salad.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -59,18 +71,6 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p6v26pbrkm"},{"Name":"integrity","Value":"sha256-YUR40S80jT8IP0VAMIjq3SqZb3EPpvsZYyczyWMrwbc="},{"Name":"label","Value":"_content/Resturant/images/french-fries.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32636"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022YUR40S80jT8IP0VAMIjq3SqZb3EPpvsZYyczyWMrwbc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 12:00:11 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Resturant/images/fries.jpeg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fries.jpeg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ytb4APvbJQHrEu/Zgp2qcP/B4NYqymFYqE8vhElPCUA="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15500"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ytb4APvbJQHrEu/Zgp2qcP/B4NYqymFYqE8vhElPCUA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 11:58:58 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Resturant/images/fries.mgyz8isx5k.jpeg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fries.jpeg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mgyz8isx5k"},{"Name":"integrity","Value":"sha256-ytb4APvbJQHrEu/Zgp2qcP/B4NYqymFYqE8vhElPCUA="},{"Name":"label","Value":"_content/Resturant/images/fries.jpeg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15500"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ytb4APvbJQHrEu/Zgp2qcP/B4NYqymFYqE8vhElPCUA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 11:58:58 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Resturant/images/Grilled-Chicken.9dag0mfaal.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Grilled-Chicken.jpg'))</AssetFile>

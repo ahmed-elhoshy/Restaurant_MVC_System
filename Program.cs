@@ -14,7 +14,14 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddMemoryCache();
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(30); // Set session timeout to 30 minutes
+    //options.Cookie.HttpOnly = true; // Make the session cookie HTTP only
+    //options.Cookie.IsEssential = true; // Make the session cookie essential for the application
+}
+    ); 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
