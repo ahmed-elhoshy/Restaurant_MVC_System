@@ -395,4 +395,4 @@ D:\kolya\iti\C#\ASP .NET MVC\Resturant\Resturant\bin\Debug\net9.0\zh-Hans\Micros
 D:\kolya\iti\C#\ASP .NET MVC\Resturant\Resturant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\kolya\iti\C#\ASP .NET MVC\Resturant\Resturant\bin\Debug\net9.0\package-lock.json
 D:\kolya\iti\C#\ASP .NET MVC\Resturant\Resturant\bin\Debug\net9.0\package.json
-D:\kolya\iti\C#\ASP .NET MVC\Resturant\Resturant\obj\Debug\net9.0\compressed\p7z8kjlbfo-iy27a8y2k6.gz
+D:\kolya\iti\C#\ASP .NET MVC\Resturant\Resturant\obj\Debug\net9.0\compressed\p7z8kjlbfo-uaa3febraj.gz

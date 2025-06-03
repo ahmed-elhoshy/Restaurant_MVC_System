@@ -42,11 +42,13 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapStaticAssets();
+app.UseSession();
 
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Ingredient}/{action=Index}/{id?}")
     .WithStaticAssets();
+
 
 app.MapRazorPages()
    .WithStaticAssets();

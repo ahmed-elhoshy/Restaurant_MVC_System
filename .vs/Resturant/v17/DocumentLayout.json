@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|d:\\kolya\\iti\\c#\\asp .net mvc\\resturant\\resturant\\views\\product\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|solutionrelative:views\\product\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|d:\\kolya\\iti\\c#\\asp .net mvc\\resturant\\resturant\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|d:\\kolya\\iti\\c#\\asp .net mvc\\resturant\\resturant\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|d:\\kolya\\iti\\c#\\asp .net mvc\\resturant\\resturant\\views\\order\\vieworders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|solutionrelative:views\\order\\vieworders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|d:\\kolya\\iti\\c#\\asp .net mvc\\resturant\\resturant\\views\\order\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|solutionrelative:views\\order\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|d:\\kolya\\iti\\c#\\asp .net mvc\\resturant\\resturant\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|d:\\kolya\\iti\\c#\\asp .net mvc\\resturant\\resturant\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|d:\\kolya\\iti\\c#\\asp .net mvc\\resturant\\resturant\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|d:\\kolya\\iti\\c#\\asp .net mvc\\resturant\\resturant\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|d:\\kolya\\iti\\c#\\asp .net mvc\\resturant\\resturant\\models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|solutionrelative:models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|d:\\kolya\\iti\\c#\\asp .net mvc\\resturant\\resturant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|d:\\kolya\\iti\\c#\\asp .net mvc\\resturant\\resturant\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AD5554-5F8B-42BC-926E-00512C1E8A26}|Resturant.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +46,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewOrders.cshtml",
+              "DocumentMoniker": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Views\\Order\\ViewOrders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\ViewOrders.cshtml",
+              "ToolTip": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Views\\Order\\ViewOrders.cshtml",
+              "RelativeToolTip": "Views\\Order\\ViewOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T17:45:06.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Views\\Order\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Cart.cshtml",
+              "ToolTip": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Views\\Order\\Cart.cshtml",
+              "RelativeToolTip": "Views\\Order\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T17:44:02.804Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T11:35:56.865Z",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-03T16:05:35.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T15:50:41.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AddEdit.cshtml",
-              "DocumentMoniker": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Views\\Product\\AddEdit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\AddEdit.cshtml",
-              "ToolTip": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Views\\Product\\AddEdit.cshtml*",
-              "RelativeToolTip": "Views\\Product\\AddEdit.cshtml*",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T12:31:11.042Z",
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:22:59.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
-              "ToolTip": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T11:02:56.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAJEAAAAAAAAAAAAAAJEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T02:29:25.04Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Models\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Models\\SessionExtensions.cs",
+              "ToolTip": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Models\\SessionExtensions.cs",
+              "RelativeToolTip": "Models\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:17:47.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:12:50.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:31:38.85Z"
             }
           ]
         }

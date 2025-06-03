@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aLt98yp81NYaYWgM+9dJsU4wZHcBM6A6SGbRcJNUoRo=",
+  "Hash": "ZWW8G+w9/GvqGWMO1FMpTkG0Pfu2fs1hDH5kcSik1OY=",
   "Source": "Resturant",
   "BasePath": "_content/Resturant",
   "Mode": "Default",
@@ -3083,12 +3083,12 @@
       "OriginalItemSpec": "C:\\Users\\legion\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-iy27a8y2k6.gz",
+      "Identity": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-uaa3febraj.gz",
       "SourceId": "Resturant",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Resturant",
-      "RelativePath": "css/site#[.{fingerprint=iy27a8y2k6}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=uaa3febraj}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -3097,8 +3097,8 @@
       "RelatedAsset": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "6znxgagt1u",
-      "Integrity": "XlBMsTuIQba28XnWsPOybprBFL3LpQwTMVQyJl0vZxw=",
+      "Fingerprint": "jw4qjkd5yl",
+      "Integrity": "U24fK5akPTMHhEWgi9kNuvo9rMn6pnVD3QYisgKcazk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\css\\site.css"
@@ -4042,8 +4042,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "iy27a8y2k6",
-      "Integrity": "RuusaF6kHWKpORg1nskRa0w/7C8WoeId3/lBGs33cxk=",
+      "Fingerprint": "uaa3febraj",
+      "Integrity": "5i0UttaMg/QbJMznGD4LgLcvZ97PTFEtMIodPnp3ajI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -5538,12 +5538,12 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-iy27a8y2k6.gz",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-uaa3febraj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001845018450"
+          "Quality": "0.001851851852"
         }
       ],
       "ResponseHeaders": [
@@ -5553,15 +5553,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "541"
+          "Value": "539"
         },
         {
           "Name": "ETag",
-          "Value": "\"XlBMsTuIQba28XnWsPOybprBFL3LpQwTMVQyJl0vZxw=\""
+          "Value": "\"U24fK5akPTMHhEWgi9kNuvo9rMn6pnVD3QYisgKcazk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 12:22:05 GMT"
+          "Value": "Tue, 03 Jun 2025 16:07:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5581,13 +5581,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RuusaF6kHWKpORg1nskRa0w/7C8WoeId3/lBGs33cxk=\""
+          "Value": "W/\"5i0UttaMg/QbJMznGD4LgLcvZ97PTFEtMIodPnp3ajI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RuusaF6kHWKpORg1nskRa0w/7C8WoeId3/lBGs33cxk="
+          "Value": "sha256-5i0UttaMg/QbJMznGD4LgLcvZ97PTFEtMIodPnp3ajI="
         }
       ]
     },
@@ -5602,7 +5602,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1332"
+          "Value": "1356"
         },
         {
           "Name": "Content-Type",
@@ -5610,11 +5610,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RuusaF6kHWKpORg1nskRa0w/7C8WoeId3/lBGs33cxk=\""
+          "Value": "\"5i0UttaMg/QbJMznGD4LgLcvZ97PTFEtMIodPnp3ajI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 12:22:05 GMT"
+          "Value": "Tue, 03 Jun 2025 16:07:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5624,13 +5624,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RuusaF6kHWKpORg1nskRa0w/7C8WoeId3/lBGs33cxk="
+          "Value": "sha256-5i0UttaMg/QbJMznGD4LgLcvZ97PTFEtMIodPnp3ajI="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-iy27a8y2k6.gz",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-uaa3febraj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5639,7 +5639,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "541"
+          "Value": "539"
         },
         {
           "Name": "Content-Type",
@@ -5647,11 +5647,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XlBMsTuIQba28XnWsPOybprBFL3LpQwTMVQyJl0vZxw=\""
+          "Value": "\"U24fK5akPTMHhEWgi9kNuvo9rMn6pnVD3QYisgKcazk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 12:22:05 GMT"
+          "Value": "Tue, 03 Jun 2025 16:07:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5669,18 +5669,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XlBMsTuIQba28XnWsPOybprBFL3LpQwTMVQyJl0vZxw="
+          "Value": "sha256-U24fK5akPTMHhEWgi9kNuvo9rMn6pnVD3QYisgKcazk="
         }
       ]
     },
     {
-      "Route": "css/site.iy27a8y2k6.css",
-      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-iy27a8y2k6.gz",
+      "Route": "css/site.uaa3febraj.css",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-uaa3febraj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001845018450"
+          "Quality": "0.001851851852"
         }
       ],
       "ResponseHeaders": [
@@ -5690,15 +5690,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "541"
+          "Value": "539"
         },
         {
           "Name": "ETag",
-          "Value": "\"XlBMsTuIQba28XnWsPOybprBFL3LpQwTMVQyJl0vZxw=\""
+          "Value": "\"U24fK5akPTMHhEWgi9kNuvo9rMn6pnVD3QYisgKcazk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 12:22:05 GMT"
+          "Value": "Tue, 03 Jun 2025 16:07:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5718,13 +5718,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RuusaF6kHWKpORg1nskRa0w/7C8WoeId3/lBGs33cxk=\""
+          "Value": "W/\"5i0UttaMg/QbJMznGD4LgLcvZ97PTFEtMIodPnp3ajI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iy27a8y2k6"
+          "Value": "uaa3febraj"
         },
         {
           "Name": "label",
@@ -5732,12 +5732,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-RuusaF6kHWKpORg1nskRa0w/7C8WoeId3/lBGs33cxk="
+          "Value": "sha256-5i0UttaMg/QbJMznGD4LgLcvZ97PTFEtMIodPnp3ajI="
         }
       ]
     },
     {
-      "Route": "css/site.iy27a8y2k6.css",
+      "Route": "css/site.uaa3febraj.css",
       "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5747,7 +5747,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1332"
+          "Value": "1356"
         },
         {
           "Name": "Content-Type",
@@ -5755,11 +5755,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RuusaF6kHWKpORg1nskRa0w/7C8WoeId3/lBGs33cxk=\""
+          "Value": "\"5i0UttaMg/QbJMznGD4LgLcvZ97PTFEtMIodPnp3ajI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 12:22:05 GMT"
+          "Value": "Tue, 03 Jun 2025 16:07:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5769,7 +5769,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iy27a8y2k6"
+          "Value": "uaa3febraj"
         },
         {
           "Name": "label",
@@ -5777,13 +5777,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-RuusaF6kHWKpORg1nskRa0w/7C8WoeId3/lBGs33cxk="
+          "Value": "sha256-5i0UttaMg/QbJMznGD4LgLcvZ97PTFEtMIodPnp3ajI="
         }
       ]
     },
     {
-      "Route": "css/site.iy27a8y2k6.css.gz",
-      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-iy27a8y2k6.gz",
+      "Route": "css/site.uaa3febraj.css.gz",
+      "AssetFile": "D:\\kolya\\iti\\C#\\ASP .NET MVC\\Resturant\\Resturant\\obj\\Debug\\net9.0\\compressed\\p7z8kjlbfo-uaa3febraj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5792,7 +5792,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "541"
+          "Value": "539"
         },
         {
           "Name": "Content-Type",
@@ -5800,11 +5800,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XlBMsTuIQba28XnWsPOybprBFL3LpQwTMVQyJl0vZxw=\""
+          "Value": "\"U24fK5akPTMHhEWgi9kNuvo9rMn6pnVD3QYisgKcazk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 12:22:05 GMT"
+          "Value": "Tue, 03 Jun 2025 16:07:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5822,7 +5822,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iy27a8y2k6"
+          "Value": "uaa3febraj"
         },
         {
           "Name": "label",
@@ -5830,7 +5830,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XlBMsTuIQba28XnWsPOybprBFL3LpQwTMVQyJl0vZxw="
+          "Value": "sha256-U24fK5akPTMHhEWgi9kNuvo9rMn6pnVD3QYisgKcazk="
         }
       ]
     },
